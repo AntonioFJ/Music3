@@ -1,0 +1,11 @@
+{
+	"email": "190fb056a2@emailfoxi.pro",
+	"password": "Mexico_2024",
+	"quality": 2,
+	"output_dir": "/content/drive/MyDrive/moov",
+	"template": "{track_padded}. {title}",
+	"comment": "Gustavo",
+	"keep_cover": true,
+	"lyrics": true,
+	"meta_language": 1
+}
