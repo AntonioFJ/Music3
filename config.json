@@ -4,7 +4,7 @@
 	"quality": 2,
 	"output_dir": "/content/drive/MyDrive/moov",
 	"template": "{track_padded}. {title}",
-	"comment": "Gustavo",
+	"comment": "https://moov.hk/#/",
 	"keep_cover": true,
 	"lyrics": true,
 	"meta_language": 1
